@@ -1,25 +1,24 @@
 # Driver Hours Compliance
 
-Hours-of-service compliance tracking and violation alerts for fleets.
+Hours-of-service compliance tracking and violation alerts for fleets. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/driver-hours-compliance/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+Driver Hours Compliance is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **Field Service & Logistics**.
 
-## Related apps
-- [Fleet Fuel Optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) — [live](https://ziontechgroup.com/fleet-fuel-optimizer/)
-- [Field Tech Scheduler](https://github.com/Zion-support/field-tech-scheduler) — [live](https://ziontechgroup.com/field-tech-scheduler/)
-- [Zion AI Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — [live](https://ziontechgroup.com/zion-ai-field-dispatch/)
-- [Field Safety Brief](https://github.com/Zion-support/field-safety-brief) — [live](https://ziontechgroup.com/field-safety-brief/)
+## Related apps in the network
+- [Fleet Fuel Optimizer](https://ziontechgroup.com/fleet-fuel-optimizer/) — AI fleet fuel optimization ([repo](https://github.com/Zion-support/fleet-fuel-optimizer))
+- [Dock Appointment Scheduler](https://ziontechgroup.com/dock-appointment-scheduler/) — warehouse dock scheduling ([repo](https://github.com/Zion-support/dock-appointment-scheduler))
+- [Route Density Planner](https://ziontechgroup.com/route-density-planner/) — field-service routing AI ([repo](https://github.com/Zion-support/route-density-planner))
+- [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) — detect shipment delays early ([repo](https://github.com/Zion-support/shipping-delay-alerter))
+- [Field Tech Scheduler](https://ziontechgroup.com/field-tech-scheduler/) — AI field technician scheduling ([repo](https://github.com/Zion-support/field-tech-scheduler))
+- [Dispatch Window Optimizer](https://ziontechgroup.com/dispatch-window-optimizer/) — AI scheduling of service windows ([repo](https://github.com/Zion-support/dispatch-window-optimizer))
 
 ## Links
-- Live: https://ziontechgroup.com/driver-hours-compliance/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
