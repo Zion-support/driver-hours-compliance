@@ -1,25 +1,22 @@
 # Driver Hours Compliance
 
-> Hours-of-service compliance tracking and violation alerts for fleets
+Hours-of-service (HoS) compliance tracking and violation alerts for fleets — keep drivers legal and operations audit-ready.
 
-Hours-of-service compliance tracking and violation alerts for fleets.
-
-**Live:** https://ziontechgroup.com/driver-hours-compliance/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://ziontechgroup.com/driver-hours-compliance/
 
 ## Features
-- HOS/ELD log tracking with violation forecasts
-- Rest-break and driving-limit alerts in real time
-- DVIR and inspection compliance workflows
-- Audit-ready reports for DOT and transport authorities
+- Real-time HoS tracking and violation alerts
+- Fleet dashboards with compliance scoring
+- Exportable audit reports
 
-## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Security Awareness Coach](https://github.com/Zion-support/security-awareness-coach) — https://ziontechgroup.com/security-awareness-coach/
-- [Patch Priority Radar](https://github.com/Zion-support/patch-priority-radar) — https://ziontechgroup.com/patch-priority-radar/
-- [Vendor Questionnaire Autopilot](https://github.com/Zion-support/vendor-questionnaire-autopilot) — https://ziontechgroup.com/vendor-questionnaire-autopilot/
-- [Customs Doc Generator](https://github.com/Zion-support/customs-doc-generator) — https://ziontechgroup.com/customs-doc-generator/
-- [Dock Appointment Scheduler](https://github.com/Zion-support/dock-appointment-scheduler) — https://ziontechgroup.com/dock-appointment-scheduler/
+## Part of the Zion Tech Group App Network
+- Network showcase: https://zion-support.github.io/apps/
+- Homepage: https://ziontechgroup.com
+
+### Related apps
+- [Dock Appointment Scheduler](https://ziontechgroup.com/dock-appointment-scheduler/) — dock scheduling & dwell analytics
+- [Customs Doc Generator](https://ziontechgroup.com/customs-doc-generator/) — AI customs documentation
+- [Zion AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/) — smart dispatch by location & skill
 
 ---
 © 2026 Zion Tech Group — https://ziontechgroup.com
