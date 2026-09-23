@@ -1,22 +1,25 @@
 # Driver Hours Compliance
 
-Hours-of-service (HoS) compliance tracking and violation alerts for fleets — keep drivers legal and operations audit-ready.
+Hours-of-service compliance tracking and violation alerts for fleets.
 
 **Live app:** https://ziontechgroup.com/driver-hours-compliance/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- Real-time HoS tracking and violation alerts
-- Fleet dashboards with compliance scoring
-- Exportable audit reports
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion Tech Group App Network
-- Network showcase: https://zion-support.github.io/apps/
-- Homepage: https://ziontechgroup.com
+## Related apps
+- [Fleet Fuel Optimizer](https://github.com/Zion-support/fleet-fuel-optimizer) — [live](https://ziontechgroup.com/fleet-fuel-optimizer/)
+- [Field Tech Scheduler](https://github.com/Zion-support/field-tech-scheduler) — [live](https://ziontechgroup.com/field-tech-scheduler/)
+- [Zion AI Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — [live](https://ziontechgroup.com/zion-ai-field-dispatch/)
+- [Field Safety Brief](https://github.com/Zion-support/field-safety-brief) — [live](https://ziontechgroup.com/field-safety-brief/)
 
-### Related apps
-- [Dock Appointment Scheduler](https://ziontechgroup.com/dock-appointment-scheduler/) — dock scheduling & dwell analytics
-- [Customs Doc Generator](https://ziontechgroup.com/customs-doc-generator/) — AI customs documentation
-- [Zion AI Dispatch Orchestrator](https://ziontechgroup.com/zion-ai-dispatch-orchestrator/) — smart dispatch by location & skill
+## Links
+- Live: https://ziontechgroup.com/driver-hours-compliance/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group
